@@ -2,7 +2,7 @@
 A Novel Method for Handwritten Digit Recognition System
 
 Team Members:
-Snega R
-Vijayashree V
-Swasthi B
-Sri swarnalatha S
+Snega R<br />
+Vijayashree V<br />
+Swasthi B<br />
+Sri swarnalatha S<br />
